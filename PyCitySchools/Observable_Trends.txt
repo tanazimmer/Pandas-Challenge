@@ -1,0 +1,3 @@
+Observable trends (2 required)
+1. There is a negative correlation between school size and test scores
+2. District schools have a lower passing rate in all subjects as compared to charter schools
