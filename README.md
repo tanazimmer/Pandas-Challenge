@@ -1,6 +1,6 @@
 # Pandas-
 ## Week 4 of Data Analytics and Visualization
-### Primary Coding Language: Python with Pandas
+### Primary Coding Language: Python with Pandas in Jupyter Notebook
 
 Data made available:
  - Student's math and reading scores
